@@ -54,6 +54,15 @@ name = 'denite'
 name = 'colorscheme'
 
 [[layers]]
+name = 'edit'
+
+[[layers]]
+name = 'format'
+
+[[layers]]
+name = "treesitter"
+
+[[layers]]
 name = 'lang#c'
 enable_clang_syntax_highlight = true
 
